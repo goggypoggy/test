@@ -1,2 +1,11 @@
 goga was here 10.09.2025 15:26
 meaningful change 1 10.09.2025 15:30
+
+int main void ummm.... what other smart things I could write here....
+ummmm
+include
+yeah
+#include <important.lib>
+uugh
+cool
+15:33
