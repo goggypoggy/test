@@ -12,3 +12,29 @@ cool
 
 ok so there was this virus guy and we made sure he doesn't ever find employment in this country ever again
 meaningful change 2 10.09.2025 15:44
+
+/* 16:12 */
+
+#include <iostream>
+
+int main( int argc, char* argv[] )
+{
+	int A, B;
+	std::cin >> A;
+	std::cin >> B;
+
+	if (A == B)
+	{
+		std::cout << A * B;
+		std::cout << (A + 24) / B * 90;
+	}
+	else
+	{
+		std::cout << 42 * (A + B) / 3;
+		std::cout << "feature working correctly!";
+	}
+	
+	return 0;	
+}
+
+/* END OF 16:12 */
